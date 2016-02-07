@@ -37,17 +37,18 @@ Lodash is available in a variety of other builds & module formats.
 CDN copies are available on [cdnjs](https://cdnjs.com/) & [jsDelivr](http://www.jsdelivr.com/).<br>
 Create [custom builds](https://lodash.com/custom-builds) with only the features you need.
 
-## What to Use lodash for and When to Use It:  
+## What to Use lodash for and When to Use It  
 
-Lodash covers gaps that exist in the JavaScript language itself and can be used for:
+Lodash's thoroughly-tested methods cover gaps that exist in the JavaScript language itself and can be used for:
 
-* manipulating and iterating over arrays, strings, objects and collections,
-* testing and manipulating values,
-* creating functions that perform many common and less common programming tasks using syntax that is easily understandable,
-* and [much more](https://devdocs.io/lodash/).
+* manipulating and iterating over arrays, strings, objects and collections;
+* testing and manipulating values;
+* creating composite functions that perform many common and less common programming tasks using syntax that is easily understandable;
+* and [much more](https://lodash.com/docs).
 
-An important feature of lodash is that it is **customizable with regard to build**, you can mix and match individual functions to create a build to suit your exact needs. Loadash allows computations such as **producing unique arrays, or intersections of collections**, to be performed almost effortlessly.  
-Lodash can be used when **high-performance** is a consideration - it is made to be performant using sensible performance-achieving principles. The criteria for overall optimal performance is not simply speed-based, but balanced with other considerations in mind - result correctness, use context, common case use, and to counteract the costs associated with making lodash **extremely cross-browser consistent**. Yet due to successful efforts to optimize component methods and their order of implementation, the speed performance of lodash often exceeds functionally-similar native JavaScript utility options - when they exist!
+An important feature of lodash is that it is **customizable with regard to build**. You can mix and match individual functions to create a build to suit your exact needs.  
+Loadash allows computations such as **producing unique arrays, or intersections of collections**, to be performed with minimal effort.  
+Lodash can be used when **high-performance** is a consideration - it is made to be performant using sensible performance-achieving principles. The criteria for overall optimal performance is not simply speed-based, but balanced with other considerations in mind - result correctness, use context, common case use, and to counteract the costs associated with making lodash **extremely cross-browser consistent**. Yet due to successful efforts to optimize component methods and case-use control code execution, the speed performance of lodash often exceeds functionally-similar native JavaScript utility options - if they exist.
 
 ## Further Reading
 
